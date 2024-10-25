@@ -2,6 +2,9 @@
 
 TinDog is a responsive landing page template inspired by Tinder, designed specifically for dog owners to help their pets find new friends! This fun, dog-themed project showcases web development skills, featuring responsive layouts, engaging icons, and simple yet effective design elements.
 
+**Live Deploy:** 
+[TinDog - Find Your Perfect Dog Match!](https://praj86.github.io/TinDog-Project/)
+
 ## Table of Contents
 
 - [Overview](#overview)
